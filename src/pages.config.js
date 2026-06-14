@@ -6,6 +6,7 @@ import Documents from './pages/Documents';
 import Folders from './pages/Folders';
 import Upload from './pages/Upload';
 import __Layout from './Layout.jsx';
+import Login from './pages/Login';
 
 
 export const PAGES = {
@@ -16,6 +17,7 @@ export const PAGES = {
     "Documents": Documents,
     "Folders": Folders,
     "Upload": Upload,
+    "Login": Login,
 }
 
 export const pagesConfig = {
